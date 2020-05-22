@@ -1,6 +1,6 @@
 final int W = 1400;
 final int H = 700;
-final int SCALE = 2;
+final int SCALE = 1;
 
 CELLS c;
 
